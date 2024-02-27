@@ -8,8 +8,8 @@
 - [X] Simple Mail Client in Python
 - [X] Advanced TCP Chat Room in Python
 - [X] FTP Client in Python
-- [ ] Camera Chat in Python
-- [ ] Screen Sharing in Python 
+- [ ] Camera Chat in Python (vidstream error)
+- [ ] Screen Sharing in Python (vidstream error)
 - [ ] Simple GUI Chat in Python
 - [ ] Simple Voice Chat in Python 
 - [ ] Zoom Clone in Python
