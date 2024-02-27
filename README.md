@@ -10,7 +10,7 @@
 - [X] FTP Client in Python
 - [ ] Camera Chat in Python (vidstream error)
 - [ ] Screen Sharing in Python (vidstream error)
-- [ ] Simple GUI Chat in Python
+- [X] Simple GUI Chat in Python
 - [ ] Simple Voice Chat in Python 
 - [ ] Zoom Clone in Python
 - [ ] Web Browser in Python
