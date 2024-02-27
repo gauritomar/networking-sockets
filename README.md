@@ -11,8 +11,8 @@
 - [ ] Camera Chat in Python (vidstream error)
 - [ ] Screen Sharing in Python (vidstream error)
 - [X] Simple GUI Chat in Python
-- [ ] Simple Voice Chat in Python 
-- [ ] Zoom Clone in Python
+- [ ] Simple Voice Chat in Python  (vidsream error)
+- [ ] Zoom Clone in Python (vidsream error)
 - [ ] Web Browser in Python
 - [ ] Mail Client with GUI
 - [ ] TCP VS UDP Sockets
