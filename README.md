@@ -4,10 +4,10 @@
 
 [Python Networking Projects](https://www.youtube.com/playlist?list=PL7yh-TELLS1FwBSNR_tH7qVbNpYHL4IQs)
 
-- [ ] Simple TCP Chat Room in Python
-- [ ] Simple Mail Client in Python
-- [ ] Advanced TCP Chat Room in Python
-- [ ] FTP Client in Python
+- [X] Simple TCP Chat Room in Python
+- [X] Simple Mail Client in Python
+- [X] Advanced TCP Chat Room in Python
+- [X] FTP Client in Python
 - [ ] Camera Chat in Python
 - [ ] Screen Sharing in Python 
 - [ ] Simple GUI Chat in Python
