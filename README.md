@@ -4,6 +4,7 @@
 
 [Python Networking Projects](https://www.youtube.com/playlist?list=PL7yh-TELLS1FwBSNR_tH7qVbNpYHL4IQs)
 
+
 - [X] Simple TCP Chat Room in Python
 - [X] Simple Mail Client in Python
 - [X] Advanced TCP Chat Room in Python
@@ -13,7 +14,8 @@
 - [X] Simple GUI Chat in Python
 - [ ] Simple Voice Chat in Python  (vidsream error)
 - [ ] Zoom Clone in Python (vidsream error)
-- [ ] Web Browser in Python
+- [X] Web Browser in Python
+- [X] Flask REST API
 - [ ] Mail Client with GUI
 - [ ] TCP VS UDP Sockets
 - [ ] Proxy Servers
